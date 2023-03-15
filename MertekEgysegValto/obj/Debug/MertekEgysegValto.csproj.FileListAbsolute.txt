@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\bin\Debug\MertekEgysegValto.exe.config
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\bin\Debug\MertekEgysegValto.exe
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\bin\Debug\MertekEgysegValto.pdb
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.FizikaControl.resources
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.Fo_Form.resources
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.Properties.Resources.resources
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.exe
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.pdb
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.KemiaControl.resources
+C:\Users\hp\Desktop\csharp\MertekEgysegValto\MertekEgysegValto\obj\Debug\MertekEgysegValto.KonyhaControl.resources

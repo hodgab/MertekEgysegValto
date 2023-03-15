@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MertekEgysegValto", "MertekEgysegValto.csproj", "{BADC73B1-5A1C-4C4C-8177-4814F6F473AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValtoUnitTest", "..\ValtoUnitTest\ValtoUnitTest.csproj", "{1D0C42B9-8D8C-4C82-BE4C-110EBABEED40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADC73B1-5A1C-4C4C-8177-4814F6F473AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADC73B1-5A1C-4C4C-8177-4814F6F473AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADC73B1-5A1C-4C4C-8177-4814F6F473AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADC73B1-5A1C-4C4C-8177-4814F6F473AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0C42B9-8D8C-4C82-BE4C-110EBABEED40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0C42B9-8D8C-4C82-BE4C-110EBABEED40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0C42B9-8D8C-4C82-BE4C-110EBABEED40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0C42B9-8D8C-4C82-BE4C-110EBABEED40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46ADBBC6-549A-47B5-B9A0-1202CDD750D2}
+	EndGlobalSection
+EndGlobal
